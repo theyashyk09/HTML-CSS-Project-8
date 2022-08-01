@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;800&display=swap');
+
+*{
+    margin: 0;
+    outline: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Merriweather Sans;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+nav{
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-items{
+    display: flex;
+}
+
+nav>img{
+    height: 40px;
+    position: relative;
+    top: -10px;
+    left: -20px;
+}
+
+.nav-item{
+    padding: 20px;
+    font-size: 17px;
+    z-index: 2;
+    color: #232b75;
+}
+
+.signin-btn{
+    border: none;
+    border-radius: 20px;
+    padding: 5px 20px;
+    font-size: 15px;
+    background: linear-gradient(90deg,#965cf2,#ff8adc);
+    color: #ffffff;
+    z-index: 2;
+    font-family: Merriweather Sans;
+}
+
+.vector-dot + img {
+    height: 880px;
+    background: url('../images/backcover.svg');
+    background-repeat: no-repeat; 
+    background-size: cover;
+    position: absolute;
+    right: -40px;
+    top: 0%;    
+    padding: 130px 85px 0 0;
+} 
+
+.left-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.left-section h1{
+    color: #3e4794;
+    font-size: 70px;
+    font-weight: 900;
+    position: relative;
+    top: 80px;
+    left: 115px;
+}
+
+.left-section h4{
+    color: #54587c;
+    font-size: 15px;
+    font-weight: 100;
+    width: 310px;
+    line-height: 20px;
+    position: relative;
+    top: 130px;
+    left: 120px;
+    
+}
+
+.learn-more-btn{
+    border: none;
+    border-radius: 30px;
+    padding: 10px 25px;
+    font-size: 25px;
+    background: linear-gradient(90deg,#965cf2,#ff8adc);
+    color: #ffffff;
+    font-family: Merriweather Sans;
+    position: relative;
+    left: 120px;
+    top: 200px;
+    
+}
+
+.vector-img{
+    position: relative;
+    top: 280px;
+    height: 100px;
+    left: 600px;
+}
+
+.vector-dot{
+    position: relative;
+    top: 200px;
+    left: 560px;
+}
+
+button,li {
+    cursor: pointer;
+  }
