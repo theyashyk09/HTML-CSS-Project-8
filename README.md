@@ -1,7 +1,7 @@
 
 # HTML & CSS PROJECT 8 ![img](https://img.shields.io/badge/PROJECT%208-HTML%20%26%20CSS-orange)
 
-This one is a web design landing page which is created using HTML & CSS. This website is currently not responsive but in coming weeks it will be responsive.
+This one is a web design landing page which is created using HTML & CSS. This website is fully responsive.
 ## Screenshot
 
 ![Project 8](https://user-images.githubusercontent.com/109405477/182111804-6a8aea6a-3032-4ac8-9e50-0d2468aa927b.png)
@@ -17,9 +17,9 @@ This one is a web design landing page which is created using HTML & CSS. This we
 
 1. I learned a lot about positions in css.
 2. I learned a lot about css selectors of all types.
-3. I think i have improved my googling since i used google alot whenever i was stuck in this project.
 4. While doing any project i should take one thing at a time.
 5. I shouldn't hurry while doing projects.
+6. I learned more about media queries.
 ## Time took to finish the project
 
 It took me 3 hours to finish this project and it was fun working on it.
