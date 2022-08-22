@@ -1,10 +1,11 @@
 
-# HTML & CSS PROJECT 2 ![img](https://img.shields.io/badge/PROJECT%208-HTML%20%26%20CSS-orange)
+# HTML & CSS PROJECT 8 ![img](https://img.shields.io/badge/PROJECT%208-HTML%20%26%20CSS-orange)
 
 This one is a web design landing page which is created using HTML & CSS. This website is currently not responsive but in coming weeks it will be responsive.
 ## Screenshot
 
-![Project 8 Screenshot](./Project%208.png)
+![Project 8](https://user-images.githubusercontent.com/109405477/182111804-6a8aea6a-3032-4ac8-9e50-0d2468aa927b.png)
+
 
 
 ## Deployed Link
